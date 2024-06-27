@@ -1,0 +1,13 @@
+bin folder conaoins executable code 
+hello_dart.dart createted by the command we gave dart create project_name
+
+.gitignore tells git which dart related files it dosen't need to bother saving to github
+
+readme.md file describes what your project does and how to use it 
+
+test folder store your test files (Good devlopers write code to verify that there programs behave as expected)
+
+lib folder stands for .In larger projects , we will have many dart files , that we will organise in lib folder
+
+pubspec.yaml files  contains a list of dependinceis that we want to use in our project
+pubspec.lock files sepcifes the precise version of all of the dependinceis 
